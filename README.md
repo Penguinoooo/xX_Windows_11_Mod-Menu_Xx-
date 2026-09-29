@@ -29,8 +29,11 @@ Administrator; the application does not need elevation for normal use.
 ## Features
 
 - Window positioning, visibility, priority, title, audio, and process actions
+- aim bot in multiplayer powerpoint, Word, and Excel lobbies
 - Window locking, focus, and on-close actions
 - Process network and performance views
+- infinite ammo (bottomless clip)
 - Optional integrations with tools installed separately
+- god mode (only working in calculator and paint)
 
 The application is Windows-specific and uses Windows Forms and Windows APIs.
